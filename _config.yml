@@ -1,6 +1,6 @@
 # Site settings
 title: Polkadotters
-description: > Static website for Polkadotters community
+description: "Static website for Polkadotters community"
 baseurl: "/"
 url: "https://www.polkadotters.com" # the base hostname & protocol for your site
 author: Petr Mensik
