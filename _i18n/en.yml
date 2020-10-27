@@ -1,0 +1,10 @@
+global:
+  czech: Czech
+  english: English
+pages:
+  about: About
+  services: Services
+  members: Members
+  history: History
+  contacts: Contacts
+  links: Links

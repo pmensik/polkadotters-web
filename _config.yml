@@ -16,8 +16,11 @@ sass:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-multiple-languages-plugin
 exclude:
   - Gemfile
   - Gemfile.lock
   - build-in-docker.sh
   - README.md
+languages: ["cs", "en"]
+exclude_from_localizations: ["javascript", "css"]
